@@ -1,10 +1,19 @@
 <!-- PREMIUM DARK BANNER -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=DARSHAN%20S&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
+</p> -->
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>DARSHAN S</strong>
+</h1>
 
+<!-- <h3>Full Stack Developer | C++ • Python • Java</h3> -->
+
+<div align="left">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 <!-- TYPING ANIMATION -->
-<p align="center">
+ <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;C%2B%2B+%7C+Python+%7C+Java;Spring+Boot+%7C+React+%7C+Node.js;Problem+Solver+%7C+DSA+Enthusiast" />
 </p>
 
@@ -73,12 +82,6 @@
 </p>
 
 ---
-
-# 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DarshanS115&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
-</p>
 
 ---
 
