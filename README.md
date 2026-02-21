@@ -106,10 +106,10 @@ ML-powered system predicting loan eligibility using applicant data.
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DarshanS115&style=for-the-badge&color=blue"/>
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
-</p>
+</p> -->
