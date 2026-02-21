@@ -28,10 +28,14 @@
   <!-- <a href="https://dev.to/midhun-nk">
     <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
   </a> -->
-
   <a href="https://github.com/DarshanS115/MySelf-MrBlue/blob/main/README.md">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/DarshanSskct/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
 
   <a href="https://www.linkedin.com/feed/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
@@ -84,40 +88,27 @@
 
 
 
-
-
-
-## 📊 LeetCode Stat
-
-<div align="center">
-  <br/>
-  <!-- <a href="https://leetcode.com/problemset/" -->
-  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
-  </a>
-</div>
-
 ---
+# 📊 GitHub Analytics
 ## 🟩 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarshanS115&theme=github&area=true"/>
 </p>
 
-# 💻 My LeetCode Activity
+## 📈 My LeetCode Profile
 
-## 📊 Problem Solving Stats
 <p align="center">
-  <img src="https://leetcard.jacob-lin.cool/leetcard.svg?user=DarshanS115&theme=dark"/>
+  <a href="https://leetcode.com/u/DarshanSskct/">
+    <img src="https://leetcard.jacoblin.cool/DarshanSskct?theme=dark" alt="LeetCode Stats for DarshanSskct"/>
+  </a>
 </p>
 
-## 🔥 Heatmap (Problems Solved Over Time)
 <p align="center">
-  <img src="https://leetcode-stats.vercel.app/?username=DarshanS115&theme=dark"/>
+  <img src="https://leetcard.jacoblin.cool/DarshanSskct?ext=activity&theme=dark" alt="LeetCode Activity Graph"/>
 </p>
 
 ---
-# 📊 GitHub Analytics
-
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Midhun-Nk&show_icons=true&theme=tokyonight" height="170"/>
