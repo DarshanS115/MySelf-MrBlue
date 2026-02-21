@@ -87,11 +87,13 @@
 
 
 
-## 📊 GitHub Stats
+## 📊 LeetCode Stat
 
 <div align="center">
   <br/>
+  <!-- <a href="https://leetcode.com/problemset/" -->
   <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
+  </a>
 </div>
 
 ---
